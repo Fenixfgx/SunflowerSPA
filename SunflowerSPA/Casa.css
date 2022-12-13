@@ -424,12 +424,11 @@
 
 @media (max-width: 575px) {
   .u-section-1-2 .u-sheet-1 {
-    min-height: 601px;
+    min-height: 607px;
   }
 
   .u-section-1-2 .u-product-1 {
     min-height: 607px;
-    margin-top: 7px;
     margin-bottom: 0;
   }
 
@@ -442,11 +441,11 @@
   }
 
   .u-section-1-2 .u-group-1 {
-    margin-top: 11px;
     min-height: 222px;
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
+    width: 340px;
+    margin-top: 11px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-1-2 .u-container-layout-2 {

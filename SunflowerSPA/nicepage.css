@@ -38470,19 +38470,19 @@ a.u-link.u-text-hover-grey-90:hover {
 
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 141px;
+    min-height: 107px;
   }
 
   .u-header .u-image-1 {
-    width: 133px;
-    height: 144px;
-    margin-top: 5px;
+    width: 100px;
+    height: 108px;
+    margin-top: 0;
   }
 
   .u-header .u-menu-1 {
-    margin-top: -95px;
+    margin-top: -89px;
     margin-right: 14px;
-    margin-bottom: 55px;
+    margin-bottom: 57px;
   }
 }
  .u-footer {

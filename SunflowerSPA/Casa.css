@@ -493,7 +493,7 @@
 
   .u-section-1-2 .u-group-1 {
     margin-top: 12px;
-    min-height: 479px;
+    min-height: 491px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
@@ -519,9 +519,7 @@
   .u-section-1-2 .u-btn-1 {
     font-size: 0.875rem;
     margin-top: 33px;
-    padding-right: 26px;
-    padding-bottom: 7px;
-    padding-left: 25px;
+    padding: 6px 26px 7px 25px;
   }
 }
 

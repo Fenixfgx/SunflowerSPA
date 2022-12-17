@@ -1256,6 +1256,7 @@
   height: 317px;
   box-shadow: 5px 5px 20px 0px rgba(0,0,0,0.4);
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  object-position: 50% 97.61%;
   margin: 3px auto 0;
 }
 
@@ -1862,7 +1863,6 @@
   .u-section-2 .u-image-9 {
     width: 268px;
     height: 320px;
-    object-position: 50% 97.61%;
     margin-top: 12px;
     margin-right: 19px;
     margin-left: 27px;

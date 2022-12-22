@@ -1,0 +1,130 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1223px;
+}
+
+.u-section-1 .u-custom-html-1 {
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-custom-html-2 {
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-custom-html-3 {
+  height: auto;
+  min-height: 423px;
+  margin: 100px 409px 60px 56px;
+}
+
+.u-section-1 .u-custom-html-4 {
+  height: auto;
+  min-height: 385px;
+  margin: 60px 326px 60px 0;
+}
+
+.u-section-1 .u-custom-html-5 {
+  height: auto;
+  min-height: 399px;
+  width: 637px;
+  margin: 56px auto 60px;
+}
+
+.u-section-1 .u-custom-html-6 {
+  height: auto;
+  min-height: 338px;
+  margin-top: 24px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-custom-html-7 {
+  height: auto;
+  min-height: 213px;
+  margin-top: 43px;
+  margin-bottom: 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-custom-html-3 {
+    min-height: 332px;
+    margin-top: 80px;
+    margin-right: 380px;
+    margin-left: 30px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-custom-html-3 {
+    min-height: 432px;
+    width: 690px;
+    margin-top: 64px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-custom-html-4 {
+    margin-right: 106px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-custom-html-3 {
+    min-height: 338px;
+    margin-top: 0;
+    width: 540px;
+  }
+
+  .u-section-1 .u-custom-html-4 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-custom-html-5 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-custom-html-3 {
+    min-height: 213px;
+    margin-top: 30px;
+    width: 340px;
+  }
+
+  .u-section-1 .u-custom-html-5 {
+    width: 340px;
+  }
+}*,*:after,*:before{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+body{
+	font-family: arial;
+	font-size: 16px;
+	margin: 0;
+	background: #fff;
+	min-height: 100vh;
+	background:#020819;
+	background-repeat: no-repeat;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+figure{
+	width: 800px;
+	height: 500px;
+	overflow:hidden;
+	border:3px solid #fff;
+	position: relative;
+}
+figure img{
+	max-width: 100%;
+	min-width: 100%;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);
+	z-index: 10;
+	pointer-events: none;
+} 

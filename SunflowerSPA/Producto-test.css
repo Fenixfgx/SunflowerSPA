@@ -16,7 +16,7 @@
   min-height: 423px;
   margin-top: 0;
   margin-bottom: 0;
-  margin-left: 0;
+  margin-left: calc(((100% - 1140px) / 2) + -29px);
   width: 675px;
 }
 
@@ -47,13 +47,14 @@
 
   .u-section-1 .u-custom-html-4 {
     min-height: 294px;
-    width: 470px;
-    margin: -9px 126px 0 calc(((100% - 940px) / 2));
+    margin-top: 0;
+    margin-right: 570px;
+    margin-bottom: 0;
   }
 
   .u-section-1 .u-text-1 {
     width: auto;
-    margin-top: -285px;
+    margin-top: -294px;
     margin-right: calc(((100% - 940px) / 2) + 73px);
     margin-left: calc(((100% - 940px) / 2) + 574px);
   }
@@ -75,6 +76,7 @@
   .u-section-1 .u-custom-html-4 {
     margin-right: 250px;
     margin-left: calc(((100% - 720px) / 2));
+    width: 470px;
   }
 
   .u-section-1 .u-text-1 {

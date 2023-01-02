@@ -13,11 +13,11 @@
 
 .u-section-1 .u-custom-html-3 {
   height: auto;
-  min-height: 423px;
+  min-height: 422px;
   margin-top: 0;
   margin-bottom: 0;
-  margin-left: calc(((100% - 1140px) / 2) + -29px);
-  width: 675px;
+  margin-left: 0;
+  width: 653px;
 }
 
 .u-section-1 .u-custom-html-4 {
@@ -28,7 +28,7 @@
 
 .u-section-1 .u-text-1 {
   font-size: 2.25rem;
-  margin: -423px calc(((100% - 1140px) / 2) + 79px) 60px calc(((100% - 1140px) / 2) + 758px);
+  margin: -422px calc(((100% - 1140px) / 2) + 85px) 60px calc(((100% - 1140px) / 2) + 752px);
 }
 
 .u-section-1 .u-image-1 {

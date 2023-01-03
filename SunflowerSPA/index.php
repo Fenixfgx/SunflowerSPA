@@ -4,9 +4,9 @@
     <meta charset="utf-8">
     <meta name="keywords" content="INTUITIVE">
     <meta name="description" content="">
-    <title>test c</title>
+    <title>Sunflower SPA</title>
     <link rel="stylesheet" href="nicepage.css" media="screen">
-<link rel="stylesheet" href="test-c.css" media="screen">
+<link rel="stylesheet" href="Sunflower-SPA.css" media="screen">
     <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
     <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
     <meta name="generator" content="Nicepage 5.0.7, nicepage.com">
@@ -32,18 +32,18 @@
 		]
 }</script>
     <meta name="theme-color" content="#478ac9">
-    <meta property="og:title" content="test c">
+    <meta property="og:title" content="Sunflower SPA">
     <meta property="og:description" content="">
     <meta property="og:type" content="website">
   </head>
-  <body class="u-body u-white u-xl-mode" data-lang="es"><header class="u-clearfix u-header u-white u-header" id="sec-436a"><div class="u-clearfix u-sheet u-valign-middle-xl u-sheet-1">
+  <body data-home-page="Sunflower-SPA.html" data-home-page-title="Sunflower SPA" class="u-body u-white u-xl-mode" data-lang="es"><header class="u-clearfix u-header u-white u-header" id="sec-436a"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+        <a href="#" class="u-align-center u-image u-logo u-image-1" data-image-width="332" data-image-height="357" title="ll">
+          <img src="images/WhatsAppImage2022-12-12at3.39.09PM1.jpeg" class="u-logo-image u-logo-image-1">
+        </a>
         <p class="u-text u-text-custom-color-4 u-text-default-xs u-text-1">
           <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-1" href="Buscador/index.html" data-animation-name="" data-animation-duration="0" data-animation-direction=""><span class="u-file-icon u-icon u-icon-1"><img src="images/5885890.png" alt=""></span>&nbsp;Buscar
           </a>
         </p>
-        <a href="Sunflower-SPA.html" class="u-align-center u-image u-logo u-image-1" data-image-width="332" data-image-height="357" title="ll">
-          <img src="images/WhatsAppImage2022-12-12at3.39.09PM1.jpeg" class="u-logo-image u-logo-image-1">
-        </a>
         <div class="u-social-icons u-spacing-3 u-social-icons-1">
           <a class="u-social-url" title="facebook" target="_blank" href="https://www.facebook.com/profile.php?id=100088629702340"><span class="u-icon u-social-facebook u-social-icon u-icon-2"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-c14f"></use></svg><svg class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-c14f"><circle fill="currentColor" cx="56.1" cy="56.1" r="55"></circle><path fill="#FFFFFF" d="M73.5,31.6h-9.1c-1.4,0-3.6,0.8-3.6,3.9v8.5h12.6L72,58.3H60.8v40.8H43.9V58.3h-8V43.9h8v-9.2
 c0-6.7,3.1-17,17-17h12.5v13.9H73.5z"></path></svg></span>
@@ -57,8 +57,8 @@ c5.5,0,9.9,4.5,9.9,9.9V73.3z"></path></svg></span>
           </a>
         </div>
       </div></header>
-    <section class="u-carousel u-slide u-valign-middle-xs u-block-7986-1" id="carousel_9df6" data-interval="7500" data-u-ride="carousel" data-pause="hover">
-      <ol class="u-carousel-indicators u-hidden u-block-7986-5">
+    <section class="u-carousel u-slide u-valign-middle-xs u-block-65d0-1" id="carousel_9df6" data-interval="7500" data-u-ride="carousel" data-pause="hover">
+      <ol class="u-carousel-indicators u-hidden u-block-65d0-5">
         <li data-u-target="#carousel_9df6" class="u-active u-grey-30" data-u-slide-to="0"></li>
         <li data-u-target="#carousel_9df6" class="u-grey-30" data-u-slide-to="1"></li>
         <li data-u-target="#carousel_9df6" class="u-grey-30" data-u-slide-to="2"></li>
@@ -148,14 +148,14 @@ garantizada,&nbsp;<!--[if !vml]--><!--[endif]-->producto 100%<br> Original.&nbsp
           </div>
         </div>
       </div>
-      <a class="u-absolute-vcenter u-carousel-control u-carousel-control-prev u-hidden-sm u-hidden-xs u-text-grey-30 u-block-7986-3" href="#carousel_9df6" role="button" data-u-slide="prev">
+      <a class="u-absolute-vcenter u-carousel-control u-carousel-control-prev u-hidden-sm u-hidden-xs u-text-grey-30 u-block-65d0-3" href="#carousel_9df6" role="button" data-u-slide="prev">
         <span aria-hidden="true">
           <svg class="u-svg-link" viewBox="0 0 477.175 477.175"><path d="M145.188,238.575l215.5-215.5c5.3-5.3,5.3-13.8,0-19.1s-13.8-5.3-19.1,0l-225.1,225.1c-5.3,5.3-5.3,13.8,0,19.1l225.1,225
                     c2.6,2.6,6.1,4,9.5,4s6.9-1.3,9.5-4c5.3-5.3,5.3-13.8,0-19.1L145.188,238.575z"></path></svg>
         </span>
         <span class="sr-only">Previous</span>
       </a>
-      <a class="u-absolute-vcenter u-carousel-control u-carousel-control-next u-hidden-sm u-hidden-xs u-text-grey-30 u-block-7986-6" href="#carousel_9df6" role="button" data-u-slide="next">
+      <a class="u-absolute-vcenter u-carousel-control u-carousel-control-next u-hidden-sm u-hidden-xs u-text-grey-30 u-block-65d0-6" href="#carousel_9df6" role="button" data-u-slide="next">
         <span aria-hidden="true">
           <svg class="u-svg-link" viewBox="0 0 477.175 477.175"><path d="M360.731,229.075l-225.1-225.1c-5.3-5.3-13.8-5.3-19.1,0s-5.3,13.8,0,19.1l215.5,215.5l-215.5,215.5
                     c-5.3,5.3-5.3,13.8,0,19.1c2.6,2.6,6.1,4,9.5,4c3.4,0,6.9-1.3,9.5-4l225.1-225.1C365.931,242.875,365.931,234.275,360.731,229.075z"></path></svg>
@@ -167,7 +167,7 @@ garantizada,&nbsp;<!--[if !vml]--><!--[endif]-->producto 100%<br> Original.&nbsp
       <div class="u-clearfix u-sheet u-sheet-1">
         <h2 class="u-custom-font u-font-lobster u-text u-text-default u-text-1">Nuestros Productos</h2>
         <img class="u-image u-image-contain u-image-default u-preserve-proportions u-image-1" src="images/pngtree-divider-gold-ornament-png-image_6295013.png" alt="" data-image-width="360" data-image-height="360">
-        <img class="u-image u-image-contain u-image-default u-preserve-proportions u-image-2" src="https://png.pngtree.com/png-vector/20221011/ourmid/pngtree-divider-gold-ornament-png-image_6295013.png" alt="" data-image-width="360" data-image-height="360"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
+        <img class="u-image u-image-contain u-image-default u-preserve-proportions u-image-2" src="images/pngtree-divider-gold-ornament-png-image_6295013.png" alt="" data-image-width="360" data-image-height="360"><!--products--><!--products_options_json--><!--{"type":"Recent","source":"","tags":"","count":""}--><!--/products_options_json-->
         <div class="u-expanded-width-lg u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-layout-grid u-products u-products-1">
           <div class="u-repeater u-repeater-1"><!--product_item-->
             <div class="u-align-center u-container-style u-products-item u-repeater-item">
